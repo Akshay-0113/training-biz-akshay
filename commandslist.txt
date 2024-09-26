@@ -1,7 +1,7 @@
-    1  2024-09-24 07:52:50 ls
-    2  2024-09-24 07:52:50 ll
-    3  2024-09-24 07:52:50 ls
-    4  2024-09-24 07:52:50 ll
+    1  2024-09-26 06:13:12 ls
+    2  2024-09-26 06:13:12 ll
+    3  2024-09-26 06:13:12 ls
+    4  2024-09-26 06:13:12 ll
     5  2024-09-17 08:05:31 export HISTTIMEFORMAT="%F %T "
     6  2024-09-17 08:05:41 source ~/.bashrc
     7  2024-09-17 08:05:50 history > commandslist.txt
@@ -13,75 +13,75 @@
    13  2024-09-17 08:10:37 sudo passwd new_user
    14  2024-09-17 08:10:44 sudo passwd akshay
    15  2024-09-17 08:11:35 su akshay
-   16  2024-09-24 07:52:50 pwd
-   17  2024-09-24 07:52:50 cd ..
-   18  2024-09-24 07:52:50 ls
-   19  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   20  2024-09-24 07:52:50 sudo service sshd restart
-   21  2024-09-24 07:52:50 cat /etc/ssh/sshd_config
-   22  2024-09-24 07:52:50 sudo cat /etc/ssh/sshd_config
-   23  2024-09-24 07:52:50 sudo passwd akshay
-   24  2024-09-24 07:52:50 ls
-   25  2024-09-24 07:52:50 cd ..
-   26  2024-09-24 07:52:50 ls
-   27  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   28  2024-09-24 07:52:50 sudo service sshd restart
-   29  2024-09-24 07:52:50 sudo passwd akshay
-   30  2024-09-24 07:52:50 exit
-   31  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   32  2024-09-24 07:52:50 sudo su - akshay
-   33  2024-09-24 07:52:50 sudo userdel -r akshay
-   34  2024-09-24 07:52:50 cd ..
-   35  2024-09-24 07:52:50 ls
-   36  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   37  2024-09-24 07:52:50 sudo service sshd restart
-   38  2024-09-24 07:52:50 sudo adduser akshay
-   39  2024-09-24 07:52:50 sudo passwd akshay
-   40  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   41  2024-09-24 07:52:50 cat /etc/passwd | grep akshay
-   42  2024-09-24 07:52:50 su - akshay
-   43  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   44  2024-09-24 07:52:50 sudo service sshd restart
-   45  2024-09-24 07:52:50 cat /etc/ssh/sshd_config
-   46  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   47  2024-09-24 07:52:50 sudo service sshd restart
-   48  2024-09-24 07:52:50 sudo passwd akshay
-   49  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   50  2024-09-24 07:52:50 sudo service sshd restart
-   51  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   52  2024-09-24 07:52:50 systemctl restart sshd
-   53  2024-09-24 07:52:50 cd ..
-   54  2024-09-24 07:52:50 ls
-   55  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   56  2024-09-24 07:52:50 sudo service sshd restart
-   57  2024-09-24 07:52:50 sudo passwd akshay
-   58  2024-09-24 07:52:50 ls
-   59  2024-09-24 07:52:50 sudo vi commandslist.txt
-   60  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   61  2024-09-24 07:52:50 sudo service sshd restart
-   62  2024-09-24 07:52:50 sudo passwd akshay
-   63  2024-09-24 07:52:50 sudo su akshay
-   64  2024-09-24 07:52:50 su - akshay
-   65  2024-09-24 07:52:50 systemctl restart ssh.service
-   66  2024-09-24 07:52:50 systemctl restart sshd
-   67  2024-09-24 07:52:50 sudo systemctl restart sshd.service
-   68  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   69  2024-09-24 07:52:50 sudo systemctl restart sshd.service
-   70  2024-09-24 07:52:50 sudo systemctl restart ssh.service
-   71  2024-09-24 07:52:50 sudo systemctl restart sshd
-   72  2024-09-24 07:52:50 sudo service sshd restart
-   73  2024-09-24 07:52:50 sudo systemctl status sshd
-   74  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   75  2024-09-24 07:52:50 sudo systemctl restart sshd
-   76  2024-09-24 07:52:50 sudo service sshd restart
-   77  2024-09-24 07:52:50 sudo passwd akshay
-   78  2024-09-24 07:52:50 grep -r PasswordAuthentication /etc/ssh -l | xargs -n 1 sed -i 's/#\s*PasswordAuthentication\s.*$/PasswordAuthentication yes/; s/^PasswordAuthentication\s*no$/PasswordAuthentication yes/'
-   79  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   80  2024-09-24 07:52:50 sudo service sshd restart
-   81  2024-09-24 07:52:50 sudo systemctl restart sshd
-   82  2024-09-24 07:52:50 sudo userdel -r akshay
-   83  2024-09-24 07:52:50 cd ..
-   84  2024-09-24 07:52:50 ls
+   16  2024-09-26 06:13:12 pwd
+   17  2024-09-26 06:13:12 cd ..
+   18  2024-09-26 06:13:12 ls
+   19  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   20  2024-09-26 06:13:12 sudo service sshd restart
+   21  2024-09-26 06:13:12 cat /etc/ssh/sshd_config
+   22  2024-09-26 06:13:12 sudo cat /etc/ssh/sshd_config
+   23  2024-09-26 06:13:12 sudo passwd akshay
+   24  2024-09-26 06:13:12 ls
+   25  2024-09-26 06:13:12 cd ..
+   26  2024-09-26 06:13:12 ls
+   27  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   28  2024-09-26 06:13:12 sudo service sshd restart
+   29  2024-09-26 06:13:12 sudo passwd akshay
+   30  2024-09-26 06:13:12 exit
+   31  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   32  2024-09-26 06:13:12 sudo su - akshay
+   33  2024-09-26 06:13:12 sudo userdel -r akshay
+   34  2024-09-26 06:13:12 cd ..
+   35  2024-09-26 06:13:12 ls
+   36  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   37  2024-09-26 06:13:12 sudo service sshd restart
+   38  2024-09-26 06:13:12 sudo adduser akshay
+   39  2024-09-26 06:13:12 sudo passwd akshay
+   40  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   41  2024-09-26 06:13:12 cat /etc/passwd | grep akshay
+   42  2024-09-26 06:13:12 su - akshay
+   43  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   44  2024-09-26 06:13:12 sudo service sshd restart
+   45  2024-09-26 06:13:12 cat /etc/ssh/sshd_config
+   46  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   47  2024-09-26 06:13:12 sudo service sshd restart
+   48  2024-09-26 06:13:12 sudo passwd akshay
+   49  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   50  2024-09-26 06:13:12 sudo service sshd restart
+   51  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   52  2024-09-26 06:13:12 systemctl restart sshd
+   53  2024-09-26 06:13:12 cd ..
+   54  2024-09-26 06:13:12 ls
+   55  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   56  2024-09-26 06:13:12 sudo service sshd restart
+   57  2024-09-26 06:13:12 sudo passwd akshay
+   58  2024-09-26 06:13:12 ls
+   59  2024-09-26 06:13:12 sudo vi commandslist.txt
+   60  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   61  2024-09-26 06:13:12 sudo service sshd restart
+   62  2024-09-26 06:13:12 sudo passwd akshay
+   63  2024-09-26 06:13:12 sudo su akshay
+   64  2024-09-26 06:13:12 su - akshay
+   65  2024-09-26 06:13:12 systemctl restart ssh.service
+   66  2024-09-26 06:13:12 systemctl restart sshd
+   67  2024-09-26 06:13:12 sudo systemctl restart sshd.service
+   68  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   69  2024-09-26 06:13:12 sudo systemctl restart sshd.service
+   70  2024-09-26 06:13:12 sudo systemctl restart ssh.service
+   71  2024-09-26 06:13:12 sudo systemctl restart sshd
+   72  2024-09-26 06:13:12 sudo service sshd restart
+   73  2024-09-26 06:13:12 sudo systemctl status sshd
+   74  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   75  2024-09-26 06:13:12 sudo systemctl restart sshd
+   76  2024-09-26 06:13:12 sudo service sshd restart
+   77  2024-09-26 06:13:12 sudo passwd akshay
+   78  2024-09-26 06:13:12 grep -r PasswordAuthentication /etc/ssh -l | xargs -n 1 sed -i 's/#\s*PasswordAuthentication\s.*$/PasswordAuthentication yes/; s/^PasswordAuthentication\s*no$/PasswordAuthentication yes/'
+   79  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   80  2024-09-26 06:13:12 sudo service sshd restart
+   81  2024-09-26 06:13:12 sudo systemctl restart sshd
+   82  2024-09-26 06:13:12 sudo userdel -r akshay
+   83  2024-09-26 06:13:12 cd ..
+   84  2024-09-26 06:13:12 ls
    85  2024-09-17 10:40:45 export HISTTIMEFORMAT="%F %T "
    86  2024-09-17 10:40:45 source ~/.bashrc
    87  2024-09-17 10:40:45 history > commandslist.txt
@@ -89,31 +89,31 @@
    89  2024-09-17 10:42:27 sudo vi /etc/ssh/sshd_config
    90  2024-09-17 10:43:47 sudo service sshd restart
    91  2024-09-17 10:43:56 sudo passwd akshay
-   92  2024-09-24 07:52:50 sudo vi /etc/ssh/sshd_config
-   93  2024-09-24 07:52:50 sudo service sshd restart
-   94  2024-09-24 07:52:50 ls
-   95  2024-09-24 07:52:50 cat commandlist.txt
-   96  2024-09-24 07:52:50 cat commandslist.txt
-   97  2024-09-24 07:52:50 cls
+   92  2024-09-26 06:13:12 sudo vi /etc/ssh/sshd_config
+   93  2024-09-26 06:13:12 sudo service sshd restart
+   94  2024-09-26 06:13:12 ls
+   95  2024-09-26 06:13:12 cat commandlist.txt
+   96  2024-09-26 06:13:12 cat commandslist.txt
+   97  2024-09-26 06:13:12 cls
    98  2024-09-17 11:37:17 export HISTTIMEFORMAT="%F %T "
    99  2024-09-17 11:37:17 source ~/.bashrc
   100  2024-09-17 11:37:17 history > commandslist.txt
-  101  2024-09-24 07:52:50 ls -la
-  102  2024-09-24 07:52:50 cd .ssh
-  103  2024-09-24 07:52:50 ls -la
-  104  2024-09-24 07:52:50 nano authorized_keys
-  105  2024-09-24 07:52:50 sudo nano authorized_keys
-  106  2024-09-24 07:52:50 vi authorized_keys
+  101  2024-09-26 06:13:12 ls -la
+  102  2024-09-26 06:13:12 cd .ssh
+  103  2024-09-26 06:13:12 ls -la
+  104  2024-09-26 06:13:12 nano authorized_keys
+  105  2024-09-26 06:13:12 sudo nano authorized_keys
+  106  2024-09-26 06:13:12 vi authorized_keys
   107  2024-09-17 11:47:57 export HISTTIMEFORMAT="%F %T "
   108  2024-09-17 11:47:57 source ~/.bashrc
   109  2024-09-17 11:47:57 history > commandslist.txt
   110  2024-09-17 11:48:19 nano .ssh/authorized_keys
   111  2024-09-17 11:48:25 vi .ssh/authorized_keys
-  112  2024-09-24 07:52:50 vi commandslist.txt
-  113  2024-09-24 07:52:50 exit
-  114  2024-09-24 07:52:50 cat commandslist.txt
-  115  2024-09-24 07:52:50 sudo adduser testuser
-  116  2024-09-24 07:52:50 sudo su
+  112  2024-09-26 06:13:12 vi commandslist.txt
+  113  2024-09-26 06:13:12 exit
+  114  2024-09-26 06:13:12 cat commandslist.txt
+  115  2024-09-26 06:13:12 sudo adduser testuser
+  116  2024-09-26 06:13:12 sudo su
   117  2024-09-19 08:47:40 mkdir shell_asg
   118  2024-09-19 08:47:46 cd shell_asg
   119  2024-09-19 08:48:04 touch file1.txt
@@ -140,39 +140,39 @@
   140  2024-09-19 09:07:32 ./shell_code.sh fle1.txt file2
   141  2024-09-19 09:07:46 ./shell_code.sh file1.txt file1.txt
   142  2024-09-19 09:08:06 ./shell_code.sh file1.txt file2.txt
-  143  2024-09-24 07:52:50 ls
-  144  2024-09-24 07:52:50 cd shell_asg
-  145  2024-09-24 07:52:50 ls
-  146  2024-09-24 07:52:50 vi shell_code.sh
-  147  2024-09-24 07:52:50 ./shell_code.sh file1.txt file2.txt
-  148  2024-09-24 07:52:50 clear
-  149  2024-09-24 07:52:50 vi shell_code.sh
-  150  2024-09-24 07:52:50 ./shell_code.sh file1.txt file2.txt
-  151  2024-09-24 07:52:50 clear
-  152  2024-09-24 07:52:50 ls
-  153  2024-09-24 07:52:50 cd shell_asg
-  154  2024-09-24 07:52:50 ls
-  155  2024-09-24 07:52:50 vi shell_code.sh
-  156  2024-09-24 07:52:50 cat shell_code.sh
-  157  2024-09-24 07:52:50 vi script.sh
-  158  2024-09-24 07:52:50 chmod u+x 700
-  159  2024-09-24 07:52:50 chmod u+x script.sh
-  160  2024-09-24 07:52:50 ./script.sh file1.txt file2.txt
-  161  2024-09-24 07:52:50 vi file1.txt
-  162  2024-09-24 07:52:50 ./script.sh file1.txt file2.txt
-  163  2024-09-24 07:52:50 vi script.sh
-  164  2024-09-24 07:52:50 vi file1.txt
-  165  2024-09-24 07:52:50 rm file1.txt
-  166  2024-09-24 07:52:50 ls
-  167  2024-09-24 07:52:50 ./script.sh file1.txt file2.txt
-  168  2024-09-24 07:52:50 touch file1.txt
-  169  2024-09-24 07:52:50 ls
-  170  2024-09-24 07:52:50 ./script.sh file1.txt file2.txt
-  171  2024-09-24 07:52:50 ./script.sh file1.txt file1.txt
-  172  2024-09-24 07:52:50 vi file1.txt
-  173  2024-09-24 07:52:50 ./script.sh file1.txt file1.txt
-  174  2024-09-24 07:52:50 ./script.sh file1.txt file2.txt
-  175  2024-09-24 07:52:50 clear
+  143  2024-09-26 06:13:12 ls
+  144  2024-09-26 06:13:12 cd shell_asg
+  145  2024-09-26 06:13:12 ls
+  146  2024-09-26 06:13:12 vi shell_code.sh
+  147  2024-09-26 06:13:12 ./shell_code.sh file1.txt file2.txt
+  148  2024-09-26 06:13:12 clear
+  149  2024-09-26 06:13:12 vi shell_code.sh
+  150  2024-09-26 06:13:12 ./shell_code.sh file1.txt file2.txt
+  151  2024-09-26 06:13:12 clear
+  152  2024-09-26 06:13:12 ls
+  153  2024-09-26 06:13:12 cd shell_asg
+  154  2024-09-26 06:13:12 ls
+  155  2024-09-26 06:13:12 vi shell_code.sh
+  156  2024-09-26 06:13:12 cat shell_code.sh
+  157  2024-09-26 06:13:12 vi script.sh
+  158  2024-09-26 06:13:12 chmod u+x 700
+  159  2024-09-26 06:13:12 chmod u+x script.sh
+  160  2024-09-26 06:13:12 ./script.sh file1.txt file2.txt
+  161  2024-09-26 06:13:12 vi file1.txt
+  162  2024-09-26 06:13:12 ./script.sh file1.txt file2.txt
+  163  2024-09-26 06:13:12 vi script.sh
+  164  2024-09-26 06:13:12 vi file1.txt
+  165  2024-09-26 06:13:12 rm file1.txt
+  166  2024-09-26 06:13:12 ls
+  167  2024-09-26 06:13:12 ./script.sh file1.txt file2.txt
+  168  2024-09-26 06:13:12 touch file1.txt
+  169  2024-09-26 06:13:12 ls
+  170  2024-09-26 06:13:12 ./script.sh file1.txt file2.txt
+  171  2024-09-26 06:13:12 ./script.sh file1.txt file1.txt
+  172  2024-09-26 06:13:12 vi file1.txt
+  173  2024-09-26 06:13:12 ./script.sh file1.txt file1.txt
+  174  2024-09-26 06:13:12 ./script.sh file1.txt file2.txt
+  175  2024-09-26 06:13:12 clear
   176  2024-09-19 11:26:37 history
   177  2024-09-19 11:26:55 export HISTTIMEFORMAT="%F %T "
   178  2024-09-19 11:26:55 source ~/.bashrc
@@ -189,69 +189,69 @@
   189  2024-09-19 11:45:29 history
   190  2024-09-19 11:57:11 cat script.sh 
   191  2024-09-19 11:57:39 vi script.sh 
-  192  2024-09-24 07:52:50 cs .ssh
-  193  2024-09-24 07:52:50 cd .ssh
-  194  2024-09-24 07:52:50 ls
-  195  2024-09-24 07:52:50 cd
-  196  2024-09-24 07:52:50 ls -la
-  197  2024-09-24 07:52:50 cd .ssh
-  198  2024-09-24 07:52:50 ls -la
-  199  2024-09-24 07:52:50 vi authorized_keys 
-  200  2024-09-24 07:52:50 dh -af
-  201  2024-09-24 07:52:50 df -ah
-  202  2024-09-24 07:52:50 ls
-  203  2024-09-24 07:52:50 clear
-  204  2024-09-24 07:52:50 ls
-  205  2024-09-24 07:52:50 cd ..
-  206  2024-09-24 07:52:50 ls
-  207  2024-09-24 07:52:50 cd ec2-user/
-  208  2024-09-24 07:52:50 history
-  209  2024-09-24 07:52:50 ls
-  210  2024-09-24 07:52:50 cd ..
-  211  2024-09-24 07:52:50 ls
-  212  2024-09-24 07:52:50 sudo userdel testuser1
-  213  2024-09-24 07:52:50 ls
-  214  2024-09-24 07:52:50 sudo userdel -r testuser1
-  215  2024-09-24 07:52:50 ls
-  216  2024-09-24 07:52:50 cd ec2-user/
-  217  2024-09-24 07:52:50 sudo userdel -r testuser1
-  218  2024-09-24 07:52:50 clear
-  219  2024-09-24 07:52:50 vi commandslist.txt 
-  220  2024-09-24 07:52:50 cat commandslist.txt 
-  221  2024-09-24 07:52:50 clear
-  222  2024-09-24 07:52:50 ls
-  223  2024-09-24 07:52:50 cd ..
-  224  2024-09-24 07:52:50 ls
-  225  2024-09-24 07:52:50 clear
-  226  2024-09-24 07:52:50 ping 0.0.0.0
-  227  2024-09-24 07:52:50 clear
-  228  2024-09-24 07:52:50 cat /etc/redhat-release 
-  229  2024-09-24 07:52:50 df -h
-  230  2024-09-24 07:52:50 free -m
-  231  2024-09-24 07:52:50 sudo yum update -y
-  232  2024-09-24 07:52:50 sudo yum install java-1.8.0-openjdk -y
-  233  2024-09-24 07:52:50 wget https://repo.almalinux.org/almalinux/8/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-  234  2024-09-24 07:52:50 sudo yum install wget -y
-  235  2024-09-24 07:52:50 wget https://repo.almalinux.org/almalinux/8/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-  236  2024-09-24 07:52:50 ls
-  237  2024-09-24 07:52:50 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
-  238  2024-09-24 07:52:50 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-  239  2024-09-24 07:52:50 ls
-  240  2024-09-24 07:52:50 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-  241  2024-09-24 07:52:50 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-  242  2024-09-24 07:52:50 ls
-  243  2024-09-24 07:52:50 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
-  244  2024-09-24 07:52:50 sudo /etc/init.d/oracle-xe-21c configure
-  245  2024-09-24 07:52:50 vi $ORACLE_HOME/cv/admin/cvu_config
-  246  2024-09-24 07:52:50 ls
-  247  2024-09-24 07:52:50 lsnrctl status
-  248  2024-09-24 07:52:50 env
-  249  2024-09-24 07:52:50 sudo vi ~/.bash_profile 
-  250  2024-09-24 07:52:50 source ~/.bash_profile 
-  251  2024-09-24 07:52:50 env | grep ORACLE
-  252  2024-09-24 07:52:50 vi $ORACLE_HOME/cv/admin/cvu_config
-  253  2024-09-24 07:52:50 sudo vi $ORACLE_HOME/cv/admin/cvu_config
-  254  2024-09-24 07:52:50 sudo /etc/init.d/oracle-xe-21c configure
+  192  2024-09-26 06:13:12 cs .ssh
+  193  2024-09-26 06:13:12 cd .ssh
+  194  2024-09-26 06:13:12 ls
+  195  2024-09-26 06:13:12 cd
+  196  2024-09-26 06:13:12 ls -la
+  197  2024-09-26 06:13:12 cd .ssh
+  198  2024-09-26 06:13:12 ls -la
+  199  2024-09-26 06:13:12 vi authorized_keys 
+  200  2024-09-26 06:13:12 dh -af
+  201  2024-09-26 06:13:12 df -ah
+  202  2024-09-26 06:13:12 ls
+  203  2024-09-26 06:13:12 clear
+  204  2024-09-26 06:13:12 ls
+  205  2024-09-26 06:13:12 cd ..
+  206  2024-09-26 06:13:12 ls
+  207  2024-09-26 06:13:12 cd ec2-user/
+  208  2024-09-26 06:13:12 history
+  209  2024-09-26 06:13:12 ls
+  210  2024-09-26 06:13:12 cd ..
+  211  2024-09-26 06:13:12 ls
+  212  2024-09-26 06:13:12 sudo userdel testuser1
+  213  2024-09-26 06:13:12 ls
+  214  2024-09-26 06:13:12 sudo userdel -r testuser1
+  215  2024-09-26 06:13:12 ls
+  216  2024-09-26 06:13:12 cd ec2-user/
+  217  2024-09-26 06:13:12 sudo userdel -r testuser1
+  218  2024-09-26 06:13:12 clear
+  219  2024-09-26 06:13:12 vi commandslist.txt 
+  220  2024-09-26 06:13:12 cat commandslist.txt 
+  221  2024-09-26 06:13:12 clear
+  222  2024-09-26 06:13:12 ls
+  223  2024-09-26 06:13:12 cd ..
+  224  2024-09-26 06:13:12 ls
+  225  2024-09-26 06:13:12 clear
+  226  2024-09-26 06:13:12 ping 0.0.0.0
+  227  2024-09-26 06:13:12 clear
+  228  2024-09-26 06:13:12 cat /etc/redhat-release 
+  229  2024-09-26 06:13:12 df -h
+  230  2024-09-26 06:13:12 free -m
+  231  2024-09-26 06:13:12 sudo yum update -y
+  232  2024-09-26 06:13:12 sudo yum install java-1.8.0-openjdk -y
+  233  2024-09-26 06:13:12 wget https://repo.almalinux.org/almalinux/8/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  234  2024-09-26 06:13:12 sudo yum install wget -y
+  235  2024-09-26 06:13:12 wget https://repo.almalinux.org/almalinux/8/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+  236  2024-09-26 06:13:12 ls
+  237  2024-09-26 06:13:12 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
+  238  2024-09-26 06:13:12 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+  239  2024-09-26 06:13:12 ls
+  240  2024-09-26 06:13:12 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+  241  2024-09-26 06:13:12 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+  242  2024-09-26 06:13:12 ls
+  243  2024-09-26 06:13:12 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+  244  2024-09-26 06:13:12 sudo /etc/init.d/oracle-xe-21c configure
+  245  2024-09-26 06:13:12 vi $ORACLE_HOME/cv/admin/cvu_config
+  246  2024-09-26 06:13:12 ls
+  247  2024-09-26 06:13:12 lsnrctl status
+  248  2024-09-26 06:13:12 env
+  249  2024-09-26 06:13:12 sudo vi ~/.bash_profile 
+  250  2024-09-26 06:13:12 source ~/.bash_profile 
+  251  2024-09-26 06:13:12 env | grep ORACLE
+  252  2024-09-26 06:13:12 vi $ORACLE_HOME/cv/admin/cvu_config
+  253  2024-09-26 06:13:12 sudo vi $ORACLE_HOME/cv/admin/cvu_config
+  254  2024-09-26 06:13:12 sudo /etc/init.d/oracle-xe-21c configure
   255  2024-09-24 07:57:25 history
   256  2024-09-24 07:58:08 sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
   257  2024-09-24 07:58:27 sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/spfileXE.ora
@@ -285,3 +285,122 @@
   285  2024-09-24 09:50:59 export HISTTIMEFORMAT="%F %T "
   286  2024-09-24 09:50:59 source ~/.bashrc
   287  2024-09-24 09:50:59 history > commandslist.txt
+  288  2024-09-24 09:51:06 history
+  289  2024-09-24 09:56:02 env | grep ORACLE
+  290  2024-09-24 09:57:48 clear
+  291  2024-09-24 10:01:35 sudo vi $ORACLE_HOME/cv/admin/cvu_config
+  292  2024-09-24 10:04:23 ls
+  293  2024-09-24 10:16:36 wget commandslist.txt 
+  294  2024-09-24 10:18:22 ls
+  295  2024-09-26 06:13:12 sudo service oracle-xe-21c start
+  296  2024-09-26 06:13:12 sudo lsnrctl status
+  297  2024-09-26 06:13:12 free -g
+  298  2024-09-26 06:13:12 df -ah
+  299  2024-09-26 06:13:12 top
+  300  2024-09-26 06:13:12 pwd
+  301  2024-09-26 06:13:14 ls
+  302  2024-09-26 06:16:04 mkdir git_cronjob_asg
+  303  2024-09-26 06:16:07 cd git_cronjob_asg/
+  304  2024-09-26 06:17:42 cd
+  305  2024-09-26 06:18:03 cp commandslist.txt ./git_cronjob_asg/
+  306  2024-09-26 06:18:05 ls
+  307  2024-09-26 06:18:10 cd git_cronjob_asg/
+  308  2024-09-26 06:18:11 ls
+  309  2024-09-26 06:20:49 git init -b main
+  310  2024-09-26 06:21:03 sudo yum install git
+  311  2024-09-26 06:21:22 git init -b main
+  312  2024-09-26 06:25:31 ls
+  313  2024-09-26 06:25:35 git add .
+  314  2024-09-26 06:25:46 git commit -m "first commit"
+  315  2024-09-26 06:27:14 git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+  316  2024-09-26 06:27:21 git remote -v
+  317  2024-09-26 06:27:48 git push origin main
+  318  2024-09-26 06:48:56 ls
+  319  2024-09-26 06:56:25 cd
+  320  2024-09-26 06:56:26 ls
+  321  2024-09-26 06:56:29 cd shell_asg/
+  322  2024-09-26 06:56:30 ls
+  323  2024-09-26 06:56:38 vi script.sh 
+  324  2024-09-26 06:56:51 ls
+  325  2024-09-26 06:56:55 cd
+  326  2024-09-26 06:58:34 ls
+  327  2024-09-26 06:58:39 cd git_cronjob_asg/
+  328  2024-09-26 06:58:40 ls
+  329  2024-09-26 07:09:19 rm -rf .git
+  330  2024-09-26 07:10:35 git status
+  331  2024-09-26 07:10:45 ls
+  332  2024-09-26 07:10:55 mkdir commnad_history
+  333* 2024-09-26 07:11:45 
+  334  2024-09-26 07:11:55 rm -rf commnad_history/
+  335  2024-09-26 07:11:56 ls
+  336  2024-09-26 07:12:10 mkdir command_history
+  337  2024-09-26 07:12:12 ls
+  338  2024-09-26 07:12:47 mv commandslist.txt command_history/commandslist.txt
+  339  2024-09-26 07:12:48 ls
+  340  2024-09-26 07:12:54 cd command_history/
+  341  2024-09-26 07:12:55 ls
+  342  2024-09-26 07:13:02 cd
+  343  2024-09-26 07:13:59 ls
+  344  2024-09-26 07:14:16 cd git_cronjob_asg/
+  345  2024-09-26 07:14:18 ls
+  346  2024-09-26 07:14:24 cd command_history/
+  347  2024-09-26 07:14:32 git init -b main
+  348  2024-09-26 07:14:38 git add .
+  349  2024-09-26 07:14:50 git commit -m "First commit"
+  350  2024-09-26 07:15:21 git remote -v
+  351  2024-09-26 07:15:28 git remote add https://github.com/Akshay-0113/training-biz-akshay.git
+  352  2024-09-26 07:15:42 git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+  353  2024-09-26 07:15:45 git remote -v
+  354  2024-09-26 07:15:56 git push origin main
+  355  2024-09-26 07:19:25 git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+  356  2024-09-26 07:19:43 cd
+  357  2024-09-26 07:19:45 ls
+  358  2024-09-26 07:19:52 cd git_cronjob_asg/
+  359  2024-09-26 07:19:53 ls
+  360  2024-09-26 07:19:59 rm -rf command_history/
+  361  2024-09-26 07:20:08 mkdir command_history
+  362  2024-09-26 07:20:11 ls
+  363  2024-09-26 07:20:14 cd command_history/
+  364  2024-09-26 07:20:30 git init -b main
+  365  2024-09-26 07:20:35 git add .
+  366  2024-09-26 07:20:51 git commit -m "First Commit"
+  367  2024-09-26 07:21:02 cd ..
+  368  2024-09-26 07:21:05 ls
+  369  2024-09-26 07:21:11 cd
+  370  2024-09-26 07:21:15 ls
+  371  2024-09-26 07:21:33 cp commandslist.txt ./git_cronjob_asg/command_history/
+  372  2024-09-26 07:21:39 cd git_cronjob_asg/
+  373  2024-09-26 07:21:44 cd command_history/
+  374  2024-09-26 07:21:45 ls
+  375  2024-09-26 07:21:54 git status
+  376  2024-09-26 07:22:00 git add .
+  377  2024-09-26 07:22:18 git commit -m "First Commit"
+  378  2024-09-26 07:22:29 git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+  379  2024-09-26 07:22:34 git push -u origin main
+  380  2024-09-26 07:25:18 cd ..
+  381  2024-09-26 07:28:44 vi script.sh
+  382  2024-09-26 07:29:42 ./script.sh
+  383  2024-09-26 07:30:03 chmod u+x script.sh
+  384  2024-09-26 07:30:05 ./script.sh
+  385  2024-09-26 07:30:12 vi script.sh
+  386  2024-09-26 07:31:24 ./script.sh
+  387  2024-09-26 07:31:46 vi script.sh
+  388  2024-09-26 07:32:29 ./script.sh
+  389  2024-09-26 07:32:40 vi script.sh
+  390  2024-09-26 07:33:42 ./script.sh
+  391  2024-09-26 07:33:53 vi script.sh
+  392  2024-09-26 07:34:40 ./script.sh
+  393  2024-09-26 07:34:49 vi script.sh
+  394  2024-09-26 07:34:58 ./script.sh
+  395  2024-09-26 07:35:00 vi script.sh
+  396  2024-09-26 07:35:07 ./script.sh
+  397  2024-09-26 07:35:45 vi script.sh
+  398  2024-09-26 07:36:03 ./script.sh
+  399  2024-09-26 07:36:08 vi script.sh
+  400  2024-09-26 07:38:14 ls
+  401  2024-09-26 07:38:18 vi script.sh
+  402  2024-09-26 07:40:21 ./script.sh 
+  403  2024-09-26 07:40:27 vi script.sh
+  404  2024-09-26 07:40:42 ./script.sh 
+  405  2024-09-26 07:40:51 vi script.sh
+  406  2024-09-26 07:44:04 ./script.sh 
