@@ -568,3 +568,16 @@
   568  2024-09-26 09:51:02 chmod u+x ./script.sh 
   569  2024-09-26 09:51:05 ls
   570  2024-09-26 09:51:16 ./script.sh 
+  571  2024-09-26 09:51:25 clear
+  572  2024-09-26 09:53:26 ssh-keygen -t rsa -b 4096 -C "mondalakshay02@gmail.com"
+  573  2024-09-26 09:53:47 eval "$(ssh-agent -s)"
+  574  2024-09-26 09:53:51 ssh-add ~/.ssh/id_rsa
+  575  2024-09-26 09:53:58 cat ~/.ssh/id_rsa.pub
+  576  2024-09-26 09:55:01 ls
+  577  2024-09-26 09:55:04 cd training-biz-akshay/
+  578  2024-09-26 09:55:50 git remote set-url origin git@github.com:Akshay-0113/training-biz-akshay.git
+  579  2024-09-26 09:56:01 git remote -v
+  580  2024-09-26 09:56:06 ```bash
+git remote -v
+```
+  581  2024-09-26 09:57:01 ../script.sh
