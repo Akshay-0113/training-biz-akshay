@@ -1042,3 +1042,7 @@ history > commandslist.txt
 ./script.sh 
 #1727354864
 sudo grep CRON /var/log/cron
+#1727354882
+vi ./script.sh 
+#1727354906
+sudo grep CRON /var/log/cron
