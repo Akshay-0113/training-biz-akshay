@@ -2,7 +2,7 @@ cd ~/training-biz-akshay
 
 export HISTTIMEFORMAT="%F %T "
 source ~/.bashrc
-history > commandslist.txt
+~/.bash_history > /home/ec2-user//training-biz-akshay/commandslist.txt
 
 git add .
 
