@@ -1,0 +1,808 @@
+ls
+ll
+ls
+ll
+#1726560331
+export HISTTIMEFORMAT="%F %T "
+#1726560341
+source ~/.bashrc
+#1726560350
+history > commandslist.txt
+#1726560416
+sudo adduser akshay
+#1726560504
+su root
+#1726560521
+su jjj
+#1726560568
+sudo vi /etc/ssh/sshd_config
+#1726560628
+sudo service sshd restart
+#1726560637
+sudo passwd new_user
+#1726560644
+sudo passwd akshay
+#1726560695
+su akshay
+pwd
+cd ..
+ls
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+cat /etc/ssh/sshd_config
+sudo cat /etc/ssh/sshd_config
+sudo passwd akshay
+ls
+cd ..
+ls
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo passwd akshay
+exit
+sudo vi /etc/ssh/sshd_config
+sudo su - akshay
+sudo userdel -r akshay
+cd ..
+ls
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo adduser akshay
+sudo passwd akshay
+sudo vi /etc/ssh/sshd_config
+cat /etc/passwd | grep akshay
+su - akshay
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+cat /etc/ssh/sshd_config
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo passwd akshay
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo vi /etc/ssh/sshd_config
+systemctl restart sshd
+cd ..
+ls
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo passwd akshay
+ls
+sudo vi commandslist.txt
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo passwd akshay
+sudo su akshay
+su - akshay
+systemctl restart ssh.service
+systemctl restart sshd
+sudo systemctl restart sshd.service
+sudo vi /etc/ssh/sshd_config
+sudo systemctl restart sshd.service
+sudo systemctl restart ssh.service
+sudo systemctl restart sshd
+sudo service sshd restart
+sudo systemctl status sshd
+sudo vi /etc/ssh/sshd_config
+sudo systemctl restart sshd
+sudo service sshd restart
+sudo passwd akshay
+grep -r PasswordAuthentication /etc/ssh -l | xargs -n 1 sed -i 's/#\s*PasswordAuthentication\s.*$/PasswordAuthentication yes/; s/^PasswordAuthentication\s*no$/PasswordAuthentication yes/'
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+sudo systemctl restart sshd
+sudo userdel -r akshay
+cd ..
+ls
+#1726569645
+export HISTTIMEFORMAT="%F %T "
+#1726569645
+source ~/.bashrc
+#1726569645
+history > commandslist.txt
+#1726569739
+sudo adduser akshay
+#1726569747
+sudo vi /etc/ssh/sshd_config
+#1726569827
+sudo service sshd restart
+#1726569836
+sudo passwd akshay
+sudo vi /etc/ssh/sshd_config
+sudo service sshd restart
+ls
+cat commandlist.txt
+cat commandslist.txt
+cls
+#1726573037
+export HISTTIMEFORMAT="%F %T "
+#1726573037
+source ~/.bashrc
+#1726573037
+history > commandslist.txt
+ls -la
+cd .ssh
+ls -la
+nano authorized_keys
+sudo nano authorized_keys
+vi authorized_keys
+#1726573677
+export HISTTIMEFORMAT="%F %T "
+#1726573677
+source ~/.bashrc
+#1726573677
+history > commandslist.txt
+#1726573699
+nano .ssh/authorized_keys
+#1726573705
+vi .ssh/authorized_keys
+vi commandslist.txt
+exit
+cat commandslist.txt
+sudo adduser testuser
+sudo su
+#1726735660
+mkdir shell_asg
+#1726735666
+cd shell_asg
+#1726735684
+touch file1.txt
+#1726735694
+vi file1.txt
+#1726735730
+cat file1.txt
+#1726735773
+touch shell_code.sh
+#1726735780
+vi shell_code.sh
+#1726736320
+cat shell_code.sh
+#1726736408
+chmod 700 shell_code.sh
+#1726736413
+ls -l
+#1726736441
+
+#1726736466
+./shell_code.sh file1.txt
+#1726736486
+./shell_code.sh fie1.txt file2.txt
+#1726736501
+./shell_code.sh fie1.txt fie2.txt
+#1726736509
+./shell_code.sh file1.txt file1.txt
+#1726736521
+./shell_code.sh file1.txt file2.txt
+#1726736598
+vi shell_code.sh
+#1726736677
+export HISTTIMEFORMAT="%F %T "
+#1726736677
+source ~/.bashrc
+#1726736677
+history > commandslist.txt
+#1726736683
+history
+#1726736804
+cls
+#1726736806
+clear
+#1726736834
+./shell_code.sh file1.txt
+#1726736852
+./shell_code.sh fle1.txt file2
+#1726736866
+./shell_code.sh file1.txt file1.txt
+#1726736886
+./shell_code.sh file1.txt file2.txt
+ls
+cd shell_asg
+ls
+vi shell_code.sh
+./shell_code.sh file1.txt file2.txt
+clear
+vi shell_code.sh
+./shell_code.sh file1.txt file2.txt
+clear
+ls
+cd shell_asg
+ls
+vi shell_code.sh
+cat shell_code.sh
+vi script.sh
+chmod u+x 700
+chmod u+x script.sh
+./script.sh file1.txt file2.txt
+vi file1.txt
+./script.sh file1.txt file2.txt
+vi script.sh
+vi file1.txt
+rm file1.txt
+ls
+./script.sh file1.txt file2.txt
+touch file1.txt
+ls
+./script.sh file1.txt file2.txt
+./script.sh file1.txt file1.txt
+vi file1.txt
+./script.sh file1.txt file1.txt
+./script.sh file1.txt file2.txt
+clear
+#1726745197
+history
+#1726745215
+export HISTTIMEFORMAT="%F %T "
+#1726745215
+source ~/.bashrc
+#1726745215
+history > commandslist.txt
+#1726745218
+history
+#1726745996
+ls
+#1726746000
+cd shell_asg/
+#1726746006
+ls
+#1726746010
+vi script.sh 
+#1726746080
+./script.sh file1.txt file2.txt
+#1726746324
+export HISTTIMEFORMAT="%F %T "
+#1726746324
+source ~/.bashrc
+#1726746324
+history > commandslist.txt
+#1726746329
+history
+#1726747031
+cat script.sh 
+#1726747059
+vi script.sh 
+cs .ssh
+cd .ssh
+ls
+cd
+ls -la
+cd .ssh
+ls -la
+vi authorized_keys 
+dh -af
+df -ah
+ls
+clear
+ls
+cd ..
+ls
+cd ec2-user/
+history
+ls
+cd ..
+ls
+sudo userdel testuser1
+ls
+sudo userdel -r testuser1
+ls
+cd ec2-user/
+sudo userdel -r testuser1
+clear
+vi commandslist.txt 
+cat commandslist.txt 
+clear
+ls
+cd ..
+ls
+clear
+ping 0.0.0.0
+clear
+cat /etc/redhat-release 
+df -h
+free -m
+sudo yum update -y
+sudo yum install java-1.8.0-openjdk -y
+wget https://repo.almalinux.org/almalinux/8/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum install wget -y
+wget https://repo.almalinux.org/almalinux/8/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+ls
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm 
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+sudo /etc/init.d/oracle-xe-21c configure
+vi $ORACLE_HOME/cv/admin/cvu_config
+ls
+lsnrctl status
+env
+sudo vi ~/.bash_profile 
+source ~/.bash_profile 
+env | grep ORACLE
+vi $ORACLE_HOME/cv/admin/cvu_config
+sudo vi $ORACLE_HOME/cv/admin/cvu_config
+sudo /etc/init.d/oracle-xe-21c configure
+#1727164645
+history
+#1727164688
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/initXE.ora
+#1727164707
+sudo vi /opt/oracle/product/21c/dbhomeXE/dbs/spfileXE.ora
+#1727164741
+sudo /etc/init.d/oracle-xe-21c configure
+#1727164757
+sudo service oracle-xe-21c start
+#1727164789
+sqlplux
+#1727164794
+sqlplus
+#1727167043
+sqlplus akshay/akshay123
+#1727167155
+export HISTTIMEFORMAT="%F %T "
+#1727167155
+source ~/.bashrc
+#1727167155
+history > commandslist.txt
+#1727167160
+history
+#1727167667
+sqlplus akshay/akshay123
+#1727168105
+sqlplus
+#1727168534
+clear
+#1727168558
+sqlplus
+#1727170133
+sudo vi ~/.bash_profile 
+#1727170569
+ls
+#1727170704
+cd $ORACLE_HOME/
+#1727170706
+ls
+#1727170713
+cd bin
+#1727170714
+ls
+#1727170719
+clear
+#1727170745
+pwd
+#1727170911
+imp classicmodels/classicmodels123 FILE=/home/ec2-user/classicmodels.dmp
+#1727171044
+imp classicmodels/classicmodels123 FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+#1727171450
+export HISTTIMEFORMAT="%F %T "
+#1727171450
+source ~/.bashrc
+#1727171450
+history > commandslist.txt
+#1727171456
+cd
+#1727171459
+export HISTTIMEFORMAT="%F %T "
+#1727171459
+source ~/.bashrc
+#1727171459
+history > commandslist.txt
+#1727171466
+history
+#1727171762
+env | grep ORACLE
+#1727171868
+clear
+#1727172095
+sudo vi $ORACLE_HOME/cv/admin/cvu_config
+#1727172263
+ls
+#1727172996
+wget commandslist.txt 
+#1727173102
+ls
+sudo service oracle-xe-21c start
+sudo lsnrctl status
+free -g
+df -ah
+top
+pwd
+ssh-add ~/.ssh/id_rsa
+git remote set-url origin git@github.com:Akshay-0113/training-biz-akshay.git
+git remote -v
+ssh -T git@github.com
+cd ..
+./script.sh 
+git status
+cd command_history/
+git status
+clear
+cd
+clear
+cls
+cd
+clear
+exit
+ls
+mkdir git_cronjob_asg
+cd git_cronjob_asg/
+cd
+cp commandslist.txt ./git_cronjob_asg/
+ls
+cd git_cronjob_asg/
+ls
+git init -b main
+sudo yum install git
+git init -b main
+ls
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+git remote -v
+git push origin main
+ls
+cd
+ls
+cd shell_asg/
+ls
+vi script.sh 
+ls
+cd
+ls
+cd git_cronjob_asg/
+ls
+rm -rf .git
+git status
+ls
+mkdir commnad_history
+
+rm -rf commnad_history/
+ls
+mkdir command_history
+ls
+mv commandslist.txt command_history/commandslist.txt
+ls
+cd command_history/
+ls
+cd
+ls
+cd git_cronjob_asg/
+ls
+cd command_history/
+git init -b main
+git add .
+git commit -m "First commit"
+git remote -v
+git remote add https://github.com/Akshay-0113/training-biz-akshay.git
+git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+git remote -v
+git push origin main
+git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+cd
+ls
+cd git_cronjob_asg/
+ls
+rm -rf command_history/
+mkdir command_history
+ls
+cd command_history/
+git init -b main
+git add .
+git commit -m "First Commit"
+cd ..
+ls
+cd
+ls
+cp commandslist.txt ./git_cronjob_asg/command_history/
+cd git_cronjob_asg/
+cd command_history/
+ls
+git status
+git add .
+git commit -m "First Commit"
+git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+git push -u origin main
+cd ..
+vi script.sh
+./script.sh
+chmod u+x script.sh
+./script.sh
+vi script.sh
+./script.sh
+vi script.sh
+./script.sh
+vi script.sh
+./script.sh
+vi script.sh
+./script.sh
+vi script.sh
+./script.sh
+vi script.sh
+./script.sh
+vi script.sh
+./script.sh
+vi script.sh
+ls
+vi script.sh
+./script.sh 
+vi script.sh
+./script.sh 
+vi script.sh
+./script.sh 
+vi script.sh
+./script.sh 
+vi script.sh
+git status
+cd command_history/
+git status
+git remote -v
+vi script.sh
+ls
+cd ..
+ls
+vi script.sh 
+ls
+vi script.sh 
+ls
+cd command_history/
+git status
+git remete -v
+git remote -v
+cd ..
+./script.sh 
+ls
+cd command_history/
+cd ..
+vi ./script.sh 
+./script.sh 
+clear
+ssh-keygen -t rsa -b 4096 -C "mondalakshay02@gmail.com"
+ls -al ~/.ssh
+ $ eval "$(ssh-agent -s)"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+sudo apt-get install xclip
+sudo yum install xclip
+ls
+cd
+ls
+cd .ssh
+ls
+cat id_rsa.pub 
+cd
+ls
+cd git_cronjob_asg/
+ssh -T git@github.com
+./script.sh 
+ls
+cd command_history/
+git add .
+got commit -m "trial"
+git commit -m "trial"
+cd ..
+ls
+vi ./script.sh 
+./script.sh 
+git add .
+ls
+cd command_history/
+git add .
+git status
+git commit -m "trial"
+git push origin main
+clear
+git status
+git push origin main
+ls
+git status
+cd ..
+cd command_history/
+mv commandslist.txt ../commandslist.txt
+
+cd ..
+ls
+rm -rf command_history/
+ls
+mkdir command_history
+
+mv commandslist.txt ./command_history/commandslist.txt
+ls
+cd command_history/
+ls
+git status
+
+git init -b main
+git status
+ls
+mv commandslist.txt ../commandslist.txt
+ls
+cd ..
+ls
+rm -rf command_history/
+mkdir command_history
+ls
+cd command_history/
+ls
+mv commandslist.txt ./command_history/commandslist.txt
+cd ..
+mv commandslist.txt ./command_history/commandslist.txt
+ls
+cd command_history/
+ls
+git status
+git init -b main
+git add .
+git commit -m "trial"
+git remote add origin https://github.com/Akshay-0113/training-biz-akshay.git
+git remote -v
+git push origin main
+eval "$(ssh-agent -s)"
+```bash
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+```
+#1727344569
+ssh -T git@github.com
+#1727344577
+ls
+#1727344592
+cd
+#1727344595
+ls
+#1727344601
+exit
+#1727343568
+git status
+#1727343570
+ls
+#1727343574
+cd git_cronjob_asg/
+#1727343650
+git init -b main
+#1727343656
+ls
+#1727343662
+rm -rf command_history/
+#1727343665
+ls
+#1727343710
+vi script.sh 
+#1727343735
+git status
+#1727343746
+ls
+#1727343754
+cd
+#1727343773
+export HISTTIMEFORMAT="%F %T "
+#1727343773
+source ~/.bashrc
+#1727343773
+history > commandslist.txt
+#1727343785
+ls
+#1727343811
+cp commandslist.txt ./git_cronjob_asg/commandslist.txt
+#1727343814
+cd git_cronjob_asg/
+#1727343815
+ls
+#1727343842
+vi ./script.sh 
+#1727343882
+git status
+#1727343891
+git add commandslist.txt
+#1727343894
+git status
+#1727343910
+git commit -m "Commit new"
+#1727343942
+cd
+#1727343949
+cd git_cronjob_asg/
+#1727343951
+ls
+#1727344022
+mv commandslist.txt ../commandslist.txt
+#1727344024
+cd
+#1727344024
+ls
+#1727344033
+cd git_cronjob_asg/
+#1727344047
+cd
+#1727344050
+vi commandslist.txt 
+#1727344093
+git clone https://github.com/Akshay-0113/training-biz-akshay.git
+#1727344098
+ls
+#1727344105
+rm -rf git_cronjob_asg/
+#1727344108
+ls
+#1727344136
+vi ./script.sh
+#1727344262
+chmod u+x ./script.sh 
+#1727344265
+ls
+#1727344276
+./script.sh 
+#1727344285
+clear
+#1727344406
+ssh-keygen -t rsa -b 4096 -C "mondalakshay02@gmail.com"
+#1727344427
+eval "$(ssh-agent -s)"
+#1727344431
+ssh-add ~/.ssh/id_rsa
+#1727344438
+cat ~/.ssh/id_rsa.pub
+#1727344501
+ls
+#1727344504
+cd training-biz-akshay/
+#1727344550
+git remote set-url origin git@github.com:Akshay-0113/training-biz-akshay.git
+#1727344561
+git remote -v
+#1727344566
+```bash
+git remote -v
+```
+#1727344621
+../script.sh
+#1727344648
+ls
+#1727344650
+cd
+#1727344655
+crontab -e
+#1727344698
+crontab -l
+#1727344712
+crontab -e
+#1727344726
+ls
+#1727344739
+cd training-biz-akshay/
+#1727344752
+ls
+#1727344756
+vi commandslist.txt 
+#1727344765
+cat commandslist.txt 
+#1727349073
+ls
+#1727349078
+cd ..
+#1727349079
+ls
+#1727349084
+vi script.sh 
+#1727349221
+crontab -l
+#1727349224
+crontab -e
+#1727349247
+crontab -l
+#1727349287
+vi script.sh 
+#1727349358
+./script.sh 
+#1727349372
+crontab -l
+#1727349381
+vi script.sh 
+#1727349404
+./script.sh 
+#1727349419
+crontab -e
+#1727349431
+crontab -l
+#1727349537
+vi ~/.bashrc
