@@ -806,3 +806,235 @@ crontab -e
 crontab -l
 #1727349537
 vi ~/.bashrc
+#1727349640
+ls
+#1727349645
+vi ./s
+#1727349654
+vi ./script.sh 
+#1727349704
+./script.sh 
+#1727349730
+crontab -l
+#1727349732
+sudo grep CRON /var/log/cron
+#1727349764
+ls
+#1727349771
+vi ./script.sh 
+#1727349795
+ls
+#1727349801
+cd tr
+#1727349853
+sudo grep CRON /var/log/cron
+#1727349906
+vi ./script.sh 
+#1727349944
+mv ./script.sh ./training-biz-akshay
+#1727349946
+ls
+#1727349953
+cd training-biz-akshay/
+#1727349961
+ls
+#1727349965
+cat commandslist.txt 
+#1727349969
+./script.sh 
+#1727349997
+sudo grep CRON /var/log/cron
+#1727350016
+crontab -l
+#1727350020
+sudo grep CRON /var/log/cron
+#1727350039
+vi ./script.sh 
+#1727350055
+crontab -e
+#1727350083
+crontab -l
+#1727350111
+crontab -e
+#1727350139
+crontab -l
+#1727350151
+sudo grep CRON /var/log/cron
+#1727350212
+vi ~/.bashrc
+#1727350232
+crontab -l
+#1727350245
+sudo grep CRON /var/log/cron
+#1727350282
+./script.sh 
+#1727350337
+sudo grep CRON /var/log/cron
+#1727350481
+vi ./script.sh 
+#1727350635
+crontab -l
+#1727350678
+sudo grep CRON /var/log/cron
+#1727350700
+vi ~/.bashrc
+#1727350748
+vi ./script2.sh
+#1727350777
+chmod u+x ./script2.sh 
+#1727350785
+crontab -e
+#1727350931
+crontab -l
+#1727350938
+crontab -e
+#1727350972
+crontab -l
+#1727351000
+crontab -e
+#1727351015
+crontab -l
+#1727351029
+./script.sh
+#1727352201
+vi ./script
+#1727352216
+vi ./script.sh
+#1727352310
+./script.sh
+#1727352362
+vi ./script.sh
+#1727352377
+./script.sh
+#1727352500
+cd
+#1727352508
+vi ~/.bashrc
+#1727352543
+./script.sh
+#1727352549
+cd training-biz-akshay/
+#1727352551
+./script.sh
+#1727352579
+crontab -l
+#1727352614
+sudo grep CRON /var/log/cron
+#1727352737
+cd
+#1727352769
+git clone <https://github.com/Akshay-0113/https://github.com/Akshay-0113/training-biz-akshay-2.git
+#1727352779
+ls
+#1727352791
+git status
+#1727352801
+git clone https://github.com/Akshay-0113/https://github.com/Akshay-0113/training-biz-akshay-2.git
+#1727352833
+git clone https://github.com/Akshay-0113/training-biz-akshay-2.git
+#1727352847
+ls
+#1727352851
+cd training-biz-akshay-2/
+#1727352860
+vi ./script.sh
+#1727353033
+chmod +x script.sh
+#1727353041
+crontab -e
+#1727353133
+./script.sh 
+#1727353146
+ls
+#1727353153
+cat history.txt
+#1727353159
+clear
+#1727353164
+./script.sh 
+#1727353272
+cd
+#1727353274
+ls
+#1727353281
+rm -rf training-biz-akshay-2/
+#1727353283
+ls
+#1727353367
+vi /etc/crontab
+#1727353391
+crontab -l
+#1727353396
+crontab -e
+#1727353424
+vi /etc/crontab
+#1727353448
+sudo vi /etc/crontab
+#1727353490
+ls
+#1727353495
+cd training-biz-akshay/
+#1727353496
+ls
+#1727353503
+rm -rf script2.sh 
+#1727353504
+ls
+#1727353514
+./script.sh 
+#1727353680
+ls
+#1727353683
+vi ./script.sh 
+#1727353733
+sudo vi /etc/crontab
+#1727353823
+vi ~/.bashrc
+#1727353848
+sudo grep CRON /var/log/cron
+#1727353860
+./script.sh 
+#1727353864
+sudo grep CRON /var/log/cron
+#1727353890
+vi ./script.sh 
+#1727354038
+./script.sh 
+#1727354061
+crontab -l
+#1727354069
+sudo grep CRON /var/log/cron
+#1727354377
+ls
+#1727354384
+history
+#1727354405
+crontab -l
+#1727354424
+pwd
+#1727354435
+vi ./script.sh 
+#1727354598
+crontab -l
+#1727354695
+crontab -lsudo grep CRON /var/log/cron
+#1727354698
+sudo grep CRON /var/log/cron
+#1727354711
+vi ./script.sh 
+#1727354744
+./script.sh 
+#1727354775
+sudo grep CRON /var/log/cron
+#1727354809
+./script.sh 
+#1727354813
+ls
+#1727354816
+vi commandslist.txt 
+#1727354837
+export HISTTIMEFORMAT="%F %T "
+#1727354837
+source ~/.bashrc
+#1727354837
+history > commandslist.txt
