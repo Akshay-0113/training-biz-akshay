@@ -1072,3 +1072,5 @@ ls
 clear
 sudo yum update -y
 touch testfile.txt
+ls
+chmod u+x testfile.txt
