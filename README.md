@@ -1,0 +1,1 @@
+This repository is part of Linux(AWS) training in BizAcuity. It contains the history of commands run in the AWS Instance. The history is pushed to github by a cronjob. The cronjob runs a shell script every 15 minutes.
