@@ -1218,3 +1218,11 @@ nsloopup example.com
 nslookup example.com
 #1727429122
 ifconfig
+#1727429649
+bash_profile
+#1727429713
+uname -a
+#1727430117
+cd
+#1727430121
+crontab -l
