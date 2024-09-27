@@ -1074,3 +1074,7 @@ sudo yum update -y
 touch testfile.txt
 ls
 chmod u+x testfile.txt
+ls -l
+du -h
+uname -a
+hostname
