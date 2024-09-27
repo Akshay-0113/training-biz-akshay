@@ -1128,3 +1128,7 @@ find ~ -type f name "*.txt"
 find ~ -name *.txt
 #1727421534
 find ~ -name "*.txt"
+#1727421890
+. profile
+#1727421895
+.profile
