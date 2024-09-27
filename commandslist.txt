@@ -1078,3 +1078,13 @@ ls -l
 du -h
 uname -a
 hostname
+ls
+touch testfile2.txt
+vi testfile.txt 
+vi testfile2.txt 
+zip zippedFile testfile.txt testfile2.txt 
+ls
+gzip zippedFile2 testfile.txt testfile2.txt 
+gzip zippedFile testfile.txt testfile2.txt 
+man sed
+ls
