@@ -1088,3 +1088,10 @@ gzip zippedFile2 testfile.txt testfile2.txt
 gzip zippedFile testfile.txt testfile2.txt 
 man sed
 ls
+vi testfile.txt.gz 
+gunzip testfile.txt.gz 
+gunzip testfile2.txt.gz 
+ls
+man autossh
+ls
+vi testfile.txt 
