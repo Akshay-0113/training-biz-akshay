@@ -1132,3 +1132,9 @@ find ~ -name "*.txt"
 . profile
 #1727421895
 .profile
+#1727422008
+man makefile
+#1727422044
+echo "Hello World!"
+#1727422069
+ping 13.49.224.4
