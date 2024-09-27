@@ -1202,3 +1202,19 @@ cd training-biz-akshay/
 ls
 #1727428012
 vi ./script.sh 
+#1727428847
+ps
+#1727428863
+kill 15768
+#1727428870
+ps
+#1727428893
+kill 15769
+#1727428900
+kill -l
+#1727429044
+nsloopup example.com
+#1727429049
+nslookup example.com
+#1727429122
+ifconfig
