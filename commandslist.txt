@@ -1048,3 +1048,18 @@ vi ./script.sh
 sudo grep CRON /var/log/cron
 #1727354959
 vi ./script.sh 
+#1727355089
+crontab -e
+#1727355155
+vi ./script.sh 
+#1727355239
+exit
+ls
+crontab -l
+sudo grep CRON /var/log/cron
+date
+sudo grep CRON /var/log/cron
+crontab -e
+sudo grep CRON /var/log/cron
+date
+sudo grep CRON /var/log/cron
