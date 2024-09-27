@@ -1188,3 +1188,17 @@ df -ah
 vi ~/.bashrc
 #1727427219
 history
+#1727427808
+vi ./bash_history
+#1727427888
+vi ~/.bash_history
+#1727427965
+ls
+#1727427969
+vi ./commandslist.txt 
+#1727427983
+cd training-biz-akshay/
+#1727428008
+ls
+#1727428012
+vi ./script.sh 
