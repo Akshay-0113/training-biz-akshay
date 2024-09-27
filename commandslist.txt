@@ -1095,3 +1095,12 @@ ls
 man autossh
 ls
 vi testfile.txt 
+sed 's/hello/ /g' testfile.txt 
+vi testfile.txt 
+sed 's/hello/hi/g' testfile.txt 
+vi testfile.txt 
+sed -i 's/hello/hi/g' testfile.txt 
+vi testfile.txt 
+cat testfile.txt 
+ps -ef
+man ps
