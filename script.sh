@@ -2,7 +2,7 @@ cd ~/training-biz-akshay
 
 export HISTTIMEFORMAT="%F %T "
 source ~/.bashrc
-~/.bash_history > /home/ec2-user/training-biz-akshay/commandslist.txt
+cat ~/.bash_history > /home/ec2-user/training-biz-akshay/commandslist.txt
 
 git add .
 git commit -m "cron test `date +'%Y-%m-%d %H:%M:%S'`"
