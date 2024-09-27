@@ -1066,3 +1066,9 @@ sudo grep CRON /var/log/cron
 ls
 cd training-biz-akshay/
 cd
+msn ls
+man ls
+ls
+clear
+sudo yum update -y
+touch testfile.txt
