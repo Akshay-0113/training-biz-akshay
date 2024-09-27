@@ -1118,3 +1118,13 @@ export HISTTIMEFORMAT="%F %T "
 source ~/.bashrc
 #1727421274
 history > commandslist.txt
+#1727421450
+find /home/ec2-user/ -type f namw "*.txt"
+#1727421454
+find /home/ec2-user/ -type f name "*.txt"
+#1727421492
+find ~ -type f name "*.txt"
+#1727421525
+find ~ -name *.txt
+#1727421534
+find ~ -name "*.txt"
