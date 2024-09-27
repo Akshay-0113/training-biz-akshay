@@ -1186,3 +1186,5 @@ du -h
 df -ah
 #1727426397
 vi ~/.bashrc
+#1727427219
+history
