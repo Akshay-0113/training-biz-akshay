@@ -1104,3 +1104,17 @@ vi testfile.txt
 cat testfile.txt 
 ps -ef
 man ps
+head -n 20 /var/log/messages
+ls
+head -n 20 import.log
+tail -n 20 import.log
+crontab -l
+ls
+wc commandslist.txt 
+vi commandslist.txt 
+#1727421274
+export HISTTIMEFORMAT="%F %T "
+#1727421274
+source ~/.bashrc
+#1727421274
+history > commandslist.txt
