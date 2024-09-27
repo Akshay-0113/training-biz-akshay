@@ -1168,3 +1168,15 @@ date
 sudo grep CRON /var/log/cron
 #1727422644
 date
+#1727422696
+sudo grep CRON /var/log/cron
+#1727422718
+clear
+#1727422725
+vi ./script.sh 
+#1727422750
+crontab -e
+#1727422771
+crontab -l
+#1727423004
+cd
