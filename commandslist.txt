@@ -1235,3 +1235,13 @@ crontab -l
 man ftp
 ftp
 !
+cd ..
+cd
+cd training-biz-akshay/
+cd ../..
+ls -lrt
+cd
+ls -lrt
+cd /
+cd
+telnet example.com 80
