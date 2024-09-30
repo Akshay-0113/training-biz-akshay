@@ -1254,3 +1254,8 @@ awk '/akshay/ {print}' commandslist.txt
 netstat -tulpn | grep LISTEN
 clear
 netstat -tulpn | grep LISTEN
+ls -;rt
+ls -lrt
+ls
+ls -l
+locate config
