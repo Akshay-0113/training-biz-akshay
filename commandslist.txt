@@ -1245,3 +1245,6 @@ ls -lrt
 cd /
 cd
 telnet example.com 80
+ls
+cat ./bash_profile
+cat .bash_profile
