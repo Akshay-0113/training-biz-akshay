@@ -1226,3 +1226,12 @@ uname -a
 cd
 #1727430121
 crontab -l
+. profile
+profile
+.profile
+ls
+date
+crontab -l
+man ftp
+ftp
+!
