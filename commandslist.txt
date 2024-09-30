@@ -1248,3 +1248,9 @@ telnet example.com 80
 ls
 cat ./bash_profile
 cat .bash_profile
+ls
+vi ./commandslist.txt 
+awk '/akshay/ {print}' commandslist.txt 
+netstat -tulpn | grep LISTEN
+clear
+netstat -tulpn | grep LISTEN
