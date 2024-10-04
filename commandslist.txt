@@ -1323,3 +1323,10 @@ vi sendmail.sh
 vi ~/.s-nailrc
 ./sendmail.sh 
 sudo vi /var/log/maillog
+./sendmail.sh 
+sudo vi /var/log/maillog
+echo -e "Subject: Test Email\nFrom: akshay.mondal.tech@gmail.com\nTo: mondalakshay02@gmail.com\n\nThis is a test email." | sendmail -t
+sudo vi /var/log/maillog
+./sendmail.sh 
+vi sendmail.sh
+sudo yum install ssmtp
