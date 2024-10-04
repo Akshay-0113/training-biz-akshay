@@ -1355,3 +1355,13 @@ ls
 vi script.sh 
 cd
 cd training-biz-akshay/
+./script.sh 
+git pull origin
+clear
+cd
+ls
+crontab -l
+cd training-biz-akshay/
+git pull origin
+ git config pull.rebase false
+git pull origin
