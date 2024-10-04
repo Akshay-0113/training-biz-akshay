@@ -1359,3 +1359,14 @@ vi system_info_mail.sh
 ./system_info_mail.sh 
 crontab -l
 exit
+vi system_info_mail.sh 
+#1728032159
+export HISTTIMEFORMAT="%F %T "
+#1728032159
+source ~/.bashrc
+#1728032159
+history > commandslist.txt
+#1728032169
+cat commandslist.txt 
+#1728032182
+clear
