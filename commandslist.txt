@@ -1370,3 +1370,27 @@ history > commandslist.txt
 cat commandslist.txt 
 #1728032182
 clear
+#1728033593
+vi system_info_mail.sh 
+#1728033604
+sudo vi /etc/s-nail.rc
+#1728033677
+hostame -f
+#1728033682
+hostname -f
+#1728033709
+sudo yum update
+#1728033721
+sudo yum install mailutils
+#1728034060
+sudo yum install mailx
+#1728034103
+yum install mailx
+#1728034108
+sudo yum install mailx
+#1728034147
+sudo subscription-manager register
+#1728034176
+sudo subscription-manager repos --list
+#1728034192
+clear
