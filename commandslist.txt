@@ -1352,3 +1352,6 @@ ls
 sudo grep CRON /var/log/cron
 cd training-biz-akshay/
 ls
+vi script.sh 
+cd
+cd training-biz-akshay/
