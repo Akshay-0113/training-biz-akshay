@@ -1338,3 +1338,17 @@ vi system_info_mail.sh
 sudo chmod +x system_info_mail.sh
 vi ~/.s-nailrc
 ./system_info_mail.sh 
+vi system_info_mail.sh
+crontab -l
+crontab -e
+ls
+rm -rf sendmail.sh 
+crontab -e
+sudo grep CRON /var/log/cron
+crontab -e
+ls
+history
+ls
+sudo grep CRON /var/log/cron
+cd training-biz-akshay/
+ls
