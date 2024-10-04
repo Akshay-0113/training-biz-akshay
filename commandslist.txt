@@ -1259,3 +1259,19 @@ ls -lrt
 ls
 ls -l
 locate config
+exit
+sudo yum install -y mailx
+sudo yum update
+sudo yum install mailutils -y
+sudo yum install -y mailx
+ls
+cd /etc
+ls
+clear
+cd
+ls
+vi testsc.sh
+chmod +x testsc.sh 
+vi testsc.sh
+sudo yum install -y s-nail
+./testsc.sh 
