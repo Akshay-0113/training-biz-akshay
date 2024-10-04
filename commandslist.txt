@@ -1414,3 +1414,87 @@ echo "hello world!" | mutt -s "test mail" -- akshay.mondal@bizacuity.com
 $ mutt -s "Greetings" akshay.mondal@bizacuity.com < /dev/null
 #1728034824
 mutt -s "Greetings" akshay.mondal@bizacuity.com < /dev/null
+#1728035212
+clear
+#1728035222
+sudo yum install postfix mailutils libsasl2-2 ca-certificates libsasl2-modules
+#1728035249
+sudo yum install postfix
+#1728035272
+vi /etc/postfix/main.cf
+#1728035335
+sudo chmod 777 /etc/postfix/main.cf
+#1728035337
+vi /etc/postfix/main.cf
+#1728035386
+sudo yum install libsasl
+#1728035394
+sudo yum install libsasl2-2
+#1728035413
+sudo yum install libsasl2-modules
+#1728035463
+yum search libsasl2
+#1728035469
+sudo yum search libsasl2
+#1728035487
+sudo subscription-manager register
+#1728035492
+sudo subscription-manager attach --auto
+#1728035526
+cleear
+#1728035529
+clear
+#1728035533
+vi /etc/postfix/sasl_passwd
+#1728035672
+sudo chmod 777 /etc/postfix/sasl_passwd
+#1728035680
+cd /etc/postfix/sasl_passwd
+#1728035691
+cd /etc/postfix/
+#1728035692
+ls
+#1728035710
+sudo vi sasl_passwd
+#1728035727
+cd
+#1728035735
+sudo chmod 400 /etc/postfix/sasl_passwd
+#1728035735
+sudo postmap /etc/postfix/sasl_passwd
+#1728035742
+cat /etc/ssl/certs/Thawte_Premium_Server_CA.pem | sudo tee -a /etc/postfix/cacert.pem
+#1728035749
+sudo /etc/init.d/postfix reload
+#1728035761
+sudo /etc/init.d/postfix
+#1728035796
+cd /etc
+#1728035799
+ls
+#1728035811
+sudo /etc/init.d/postfix reload
+#1728035832
+dpkg -l | grep postfix
+#1728035855
+sudo system status postfi
+#1728035858
+sudo system status postfix
+#1728035861
+cd
+#1728035870
+sudo /etc/init.d/postfix reload
+#1728035876
+sudo systemctl status postfix
+#1728035883
+sudo systemctl start postfix
+#1728035886
+sudo systemctl status postfix
+#1728035903
+sudo /etc/init.d/postfix reload
+#1728035921
+echo "Test mail from postfix" | mail -s "Test Postfix" mondalakshay02@gmail.com
+#1728035949
+echo "Test mail from postfix" | mail -s "Test Postfix" akshay.mondal@bizacuity.com
+#1728035980
+ls
