@@ -1297,3 +1297,29 @@ vi testsc.sh
 vi /root/.mailrc
 sudo vi /root/.mailrc
 vi ~/.s-nailrc
+clear
+sudo yum install mailx
+sudo yum install epel-release
+sudo yum install sendmail
+sudo systemctl start sendmail
+sudo systemctl enable sendmail
+sudo systemctl start sendmail
+sudo systemctl enable sendmail
+ls
+rm -rf testsc.sh 
+ls
+vi sendmail.sh
+chmod +x sendmail.sh 
+./sendmail.sh 
+vi /var/log/maillog
+sudo vi /var/log/maillog
+sudo vi /var/log/mail.log
+sudo vi /var/log/maillog
+echo "Test Email Body" | mail -s "Test Subject" akshay.mondal@bizacuity.com
+echo "Test Email Body" | mail -s "Test Subject" mondalakshay02@gmail.com
+sudo vi /var/log/maillog
+clear
+vi sendmail.sh
+vi ~/.s-nailrc
+./sendmail.sh 
+sudo vi /var/log/maillog
