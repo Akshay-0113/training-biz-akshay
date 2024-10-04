@@ -1365,3 +1365,12 @@ cd training-biz-akshay/
 git pull origin
  git config pull.rebase false
 git pull origin
+./script.sh 
+sudo grep CRON /var/log/cron
+vi script.sh 
+cd
+vi system_info_mail.sh 
+sudo grep CRON /var/log/cron
+vi system_info_mail.sh 
+./system_info_mail.sh 
+crontab -l
