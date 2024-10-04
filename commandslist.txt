@@ -1394,3 +1394,23 @@ sudo subscription-manager register
 sudo subscription-manager repos --list
 #1728034192
 clear
+#1728034240
+sudo grep CRON /var/log
+#1728034248
+sudo grep CRON /var/log/cron
+#1728034280
+clear
+#1728034414
+sudo yum search mail
+#1728034577
+clear
+#1728034584
+sudo yum install mutt
+#1728034733
+echo "hello world!" | mutt -s "test mail" --akshay.mondal@bizacuity.com
+#1728034743
+echo "hello world!" | mutt -s "test mail" -- akshay.mondal@bizacuity.com
+#1728034812
+$ mutt -s "Greetings" akshay.mondal@bizacuity.com < /dev/null
+#1728034824
+mutt -s "Greetings" akshay.mondal@bizacuity.com < /dev/null
