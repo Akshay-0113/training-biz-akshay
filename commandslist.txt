@@ -1278,3 +1278,22 @@ sudo yum install -y s-nail
 vi ~/.s-nailrc
 ls
 vi ~/.s-nailrc
+vi testsc.sh 
+./testsc.sh 
+vi testsc.sh 
+vi ~/.s-nailrc
+sudo yum install sendmail
+sudo systemctl start sendmail
+sudo systemctl enable sendmail
+./testsc.sh 
+vi ~/.s-nailrc
+ls
+vi ~/.s-nailrc
+vi testsc.sh 
+vi ~/.s-nailrc
+vi testsc.sh 
+./testsc.sh 
+vi testsc.sh 
+vi /root/.mailrc
+sudo vi /root/.mailrc
+vi ~/.s-nailrc
