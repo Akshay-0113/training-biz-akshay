@@ -1,26 +1,3 @@
-ls
-ll
-ls
-ll
-#1726560331
-export HISTTIMEFORMAT="%F %T "
-#1726560341
-source ~/.bashrc
-#1726560350
-history > commandslist.txt
-#1726560416
-sudo adduser akshay
-#1726560504
-su root
-#1726560521
-su jjj
-#1726560568
-sudo vi /etc/ssh/sshd_config
-#1726560628
-sudo service sshd restart
-#1726560637
-sudo passwd new_user
-#1726560644
 sudo passwd akshay
 #1726560695
 su akshay
@@ -1374,3 +1351,11 @@ sudo grep CRON /var/log/cron
 vi system_info_mail.sh 
 ./system_info_mail.sh 
 crontab -l
+sudo vi /etc/s-nail.rc
+vi system_info_mail.sh 
+./system_info_mail.sh 
+sudo vi system_report_smail.sh
+vi system_info_mail.sh 
+./system_info_mail.sh 
+crontab -l
+exit
