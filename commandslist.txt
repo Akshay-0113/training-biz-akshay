@@ -1437,3 +1437,4 @@ echo "Test mail from postfix" | mail -s "Test Postfix" mondalakshay02@gmail.com
 vi /etc/postfix/sasl_passwd
 sudo vi /etc/postfix/sasl_passwd
 mail -V
+echo "Test mail from postfix" | mail -s "Test Postfix" mondalakshay02@gmail.com
