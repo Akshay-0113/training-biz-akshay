@@ -1275,3 +1275,6 @@ chmod +x testsc.sh
 vi testsc.sh
 sudo yum install -y s-nail
 ./testsc.sh 
+vi ~/.s-nailrc
+ls
+vi ~/.s-nailrc
