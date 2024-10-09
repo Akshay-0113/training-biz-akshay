@@ -1422,3 +1422,4 @@ vi payments.csv
 rm -rf payments.csv 
 mv classicmodels-payments.csv payments.csv
 vi payments.csv 
+ls
