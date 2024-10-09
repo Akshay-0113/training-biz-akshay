@@ -1,20 +1,3 @@
-sudo vi /etc/ssh/sshd_config
-#1726569827
-sudo service sshd restart
-#1726569836
-sudo passwd akshay
-sudo vi /etc/ssh/sshd_config
-sudo service sshd restart
-ls
-cat commandlist.txt
-cat commandslist.txt
-cls
-#1726573037
-export HISTTIMEFORMAT="%F %T "
-#1726573037
-source ~/.bashrc
-#1726573037
-history > commandslist.txt
 ls -la
 cd .ssh
 ls -la
@@ -1438,3 +1421,7 @@ vi /etc/postfix/sasl_passwd
 sudo vi /etc/postfix/sasl_passwd
 mail -V
 echo "Test mail from postfix" | mail -s "Test Postfix" mondalakshay02@gmail.com
+exit
+ls
+mv classicmodels-payments.csv payments.csv
+ls
