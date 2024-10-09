@@ -1,12 +1,3 @@
-ls -la
-cd .ssh
-ls -la
-nano authorized_keys
-sudo nano authorized_keys
-vi authorized_keys
-#1726573677
-export HISTTIMEFORMAT="%F %T "
-#1726573677
 source ~/.bashrc
 #1726573677
 history > commandslist.txt
@@ -1425,4 +1416,9 @@ exit
 ls
 mv classicmodels-payments.csv payments.csv
 ls
+vi payments.csv 
+cat payments.csv 
+vi payments.csv 
+rm -rf payments.csv 
+mv classicmodels-payments.csv payments.csv
 vi payments.csv 
