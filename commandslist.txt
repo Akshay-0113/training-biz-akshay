@@ -1425,3 +1425,4 @@ exit
 ls
 mv classicmodels-payments.csv payments.csv
 ls
+vi payments.csv 
