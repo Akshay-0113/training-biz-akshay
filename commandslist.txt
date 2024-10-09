@@ -1423,3 +1423,19 @@ rm -rf payments.csv
 mv classicmodels-payments.csv payments.csv
 vi payments.csv 
 ls
+crontab -l
+vi spam_email.sh
+vi system_info_mail.sh 
+vi spam_email.sh
+rm -rf spam_email.sh 
+clear
+#1728465774
+export HISTTIMEFORMAT="%F %T "
+#1728465774
+source ~/.bashrc
+#1728465774
+history > commandslist.txt
+#1728465787
+vi commandslist.txt 
+#1728465874
+clear
