@@ -1425,3 +1425,14 @@ ls
 find / -iname "*.txt" 2>/dev/null
 cd /home/ec2-user
 ls
+find /home/ec2-user -name "*.txt" -size +1M
+ls -l
+find /home/ec2-user -name "*.rpm" -size +1M
+ls -lh
+find /home/ec2-user -name "*.rpm" -size +1K
+find /home/ec2-user -name "*.rpm" -size +1k
+find /home/ec2-user -name "*.txt" -size +1k
+ps -ef
+ps -ux
+top
+clear
