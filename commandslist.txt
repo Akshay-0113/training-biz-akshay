@@ -1436,3 +1436,28 @@ ps -ef
 ps -ux
 top
 clear
+ps -ux
+man ps
+ps -ux --sort %MEM
+ps -ux -sort %MEM
+MAN PS
+man ps
+ps -ux -sort=%MEM
+ps -ux --sort=%MEM
+ps --sort=%MEM
+ps
+ps -ux
+clear
+ps -ux
+ps -ux sort=%MEM
+ps -ux sort=-%MEM
+ps -x sort=-%MEM
+ps aux sort=-%MEM
+ps aux
+ps aux --sort=-%mem
+ps -x --sort=-%mem
+clear
+man find
+find /home/ec2-user -iname ".txt" -mtime -7 -print
+find /home/ec2-user . -mtime -7 -print
+find /home/ec2-user -iname ".sh" -mtime -7 -print
