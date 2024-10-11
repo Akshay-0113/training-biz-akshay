@@ -1395,3 +1395,19 @@ find /home/ec2-user -iname ".sh" -mtime -7 -print
 find /home/ec2-user -name ".sh" -mtime -7 -print
 find /home/ec2-user . -mtime -7 -print
 exit
+ps -ef
+ps aux
+ps x
+ps -x
+ps aux
+ps -u ec2-user aux
+ps -u ec2-user
+ps aux -u ec2-user
+ps aux ec2-user
+ps -u ec2-user
+ps -u ec2-user sort=-%MEM
+ps -u ec2-user sort=-%mem
+ps -u ec2-user --sort=-%MEM
+ps -u ec2-user --sort=-%mem
+clear
+ps -u ec2-user -f --sort=-%mem
