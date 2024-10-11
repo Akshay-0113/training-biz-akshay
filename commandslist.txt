@@ -1,26 +1,3 @@
-source ~/.bashrc
-#1726573677
-history > commandslist.txt
-#1726573699
-nano .ssh/authorized_keys
-#1726573705
-vi .ssh/authorized_keys
-vi commandslist.txt
-exit
-cat commandslist.txt
-sudo adduser testuser
-sudo su
-#1726735660
-mkdir shell_asg
-#1726735666
-cd shell_asg
-#1726735684
-touch file1.txt
-#1726735694
-vi file1.txt
-#1726735730
-cat file1.txt
-#1726735773
 touch shell_code.sh
 #1726735780
 vi shell_code.sh
@@ -1439,3 +1416,12 @@ history > commandslist.txt
 vi commandslist.txt 
 #1728465874
 clear
+conrtab -e
+crontab -e
+crontab -l
+clear
+find / -iname "*.txt"
+ls
+find / -iname "*.txt" 2>/dev/null
+cd /home/ec2-user
+ls
