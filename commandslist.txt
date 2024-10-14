@@ -1,29 +1,3 @@
-ls
-./script.sh file1.txt file2.txt
-./script.sh file1.txt file1.txt
-vi file1.txt
-./script.sh file1.txt file1.txt
-./script.sh file1.txt file2.txt
-clear
-#1726745197
-history
-#1726745215
-export HISTTIMEFORMAT="%F %T "
-#1726745215
-source ~/.bashrc
-#1726745215
-history > commandslist.txt
-#1726745218
-history
-#1726745996
-ls
-#1726746000
-cd shell_asg/
-#1726746006
-ls
-#1726746010
-vi script.sh 
-#1726746080
 ./script.sh file1.txt file2.txt
 #1726746324
 export HISTTIMEFORMAT="%F %T "
@@ -1411,3 +1385,64 @@ ps -u ec2-user --sort=-%MEM
 ps -u ec2-user --sort=-%mem
 clear
 ps -u ec2-user -f --sort=-%mem
+ps -u ec2-user
+ps -u ec2-user --sort=-%mem
+ps -u ec2-user --sort=%mem
+ps -u root
+clear
+cd
+ls
+find training-biz-akshay/ -type f -name "*.txt" -size +1K -print
+find training-biz-akshay/ -type f -name "*.txt" -size +1k -print
+find training-biz-akshay/ -type f -name "*.txt" -size +1k -print | wc -l
+find -type f -name "*.txt" -size +1k -print | wc -l
+ls -lh
+clear
+find -mtime 7
+find -mtime 70
+find -mtime 70 -print
+find -mtime -7
+find -type f -mtime -7
+find -r -type f -name "*.log"
+find -type f -name "*.log"
+find -type f -name "*.log" | cp -t /backup
+cd backup
+mkdir backup
+cd backup
+cd
+find -type f -name "*.log" | cp -t /backup
+find -type f -name "*.log" | cp -t backup
+find -type f -name "*.log" | xargs -0 cp -t backup
+find -type f -name "*.log"
+find -type f -name "*.log" -print0 | xargs -0 cp -t backup
+find -type f -name "*.log" -print0
+ls
+cd backup/
+ls
+c
+cd
+find -type f -name "*.log" -print0 | zip logzip
+ls
+cd backup/
+cd
+find -type f -name "*.log" -exec cp {} backup
+find -type f -name "*.log" -exec cp {} backup \;
+cd backup/
+ls
+cd
+rm -rf backup/
+mkdir backup
+find -type f -name "*.log" -exec cp {} backup \;
+ls
+cd backup/
+ls
+rm -rf import.log 
+ls
+rm -rf rhsm.log 
+ls
+cd
+find -type f -name "*.log" -exec cp {} backup \;
+cd backup/
+ls
+find -type f -name "*.log" -exec zip zippedfile.zip {} +
+ls
