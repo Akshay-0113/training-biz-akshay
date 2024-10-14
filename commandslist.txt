@@ -1475,3 +1475,19 @@ netstat
 man netstat
 #1728907332
 clear
+#1728911420
+find -type f
+#1728911453
+find . -type f
+#1728911469
+find -type f -name "*.txt"
+#1728911475
+find . -type f -name "*.txt"
+#1728911495
+df -ah
+#1728911503
+du -ah
+#1728911509
+du -h
+#1728911518
+clear
