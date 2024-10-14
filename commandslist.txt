@@ -1469,3 +1469,9 @@ uname -a
 man uname
 #1728907196
 ps -u ec2-user
+#1728907309
+netstat
+#1728907316
+man netstat
+#1728907332
+clear
