@@ -1449,3 +1449,11 @@ ls
 unzip zippedfile.zip 
 ls
 cd
+top -u ec2-user
+clear
+#1728906251
+export HISTTIMEFORMAT="%F %T "
+#1728906251
+source ~/.bashrc
+#1728906251
+history > commandslist.txt
