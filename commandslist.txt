@@ -1446,3 +1446,6 @@ cd backup/
 ls
 find -type f -name "*.log" -exec zip zippedfile.zip {} +
 ls
+unzip zippedfile.zip 
+ls
+cd
