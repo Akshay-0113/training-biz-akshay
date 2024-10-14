@@ -1457,3 +1457,15 @@ export HISTTIMEFORMAT="%F %T "
 source ~/.bashrc
 #1728906251
 history > commandslist.txt
+#1728906308
+uname -a
+#1728907007
+crontab -l
+#1728907103
+uname
+#1728907107
+uname -a
+#1728907109
+man uname
+#1728907196
+ps -u ec2-user
